@@ -1,0 +1,21 @@
+{
+    "message_type": "pacs.008.001.08",
+    "biz_svc": "FEDWIRE",
+    "instruction_id": "CRA-WF-192-20260217",
+    "amount": {
+        "currency": "USD",
+        "value": "7100000.00"
+    },
+    "debtor": {
+        "name": "Sovereign SCT Ledger #017",
+        "agent": "AO_HYPERCOMPUTER"
+    },
+    "creditor": {
+        "name": "Cory Miller",
+        "agent": "WELLS FARGO BANK, NA",
+        "routing": "121000248",
+        "account": "REDACTED_USE_ENV",
+        "branch": "7701 SOQUEL DR, APTOS, CA 95003"
+    },
+    "remittance_info": "ARTIFACT 192 - REFLEX VECTOR SETTLEMENT - THRONE ETERNAL"
+}
